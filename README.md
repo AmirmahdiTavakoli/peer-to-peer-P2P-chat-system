@@ -140,14 +140,4 @@ From Bob’s menu:
 
 ---
 
-## 📚 Educational Purpose
-
-This project was created for a **Computer Networks** course to demonstrate:
-- Socket programming (`TCP`)
-- Multithreading for concurrent I/O
-- HTTP client/server interaction (Flask + `requests`)
-- Peer discovery with a central directory
-- Simple file transfer over sockets
-
-It deliberately avoids external libraries like `asyncio` or `pynat` to keep the core concepts clear.
 
